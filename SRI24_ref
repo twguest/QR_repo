@@ -1,1 +1,32 @@
 References for the International Conference on Synchrotron Radiation Instrumentation (SRI) 
+
+IBFB:
+-Keil, Boris. “European X-Ray FEL: Transverse Intra Bunch Train Feedback System.” Conceptual and Technical Design Report. Paul Scherrer Institute, 2016.
+
+Stripline Kickers:
+-Dehler, M M, and G J Behrmann. “Stripline Devices for FLASH and European XFEL,” n.d.
+
+KL Kickers:
+-Obier, F., W. Decking, M. Hüning, and J. Wortmann. “Long Pulse Kicker for European XFEL Beam Distribution.” In 39th International Free Electron Laser Conference, WEP014, 2019. https://doi.org/10.18429/JACoW-FEL2019-WEP014.
+
+KS Kickers:
+-Obier, Frank, Winfried Decking, Markus Hüning, and Jens Wortmann. “Fast Kicker System for European XFEL Beam Distribution.” PDF. Proceedings of the 39th Free Electron Laser Conference FEL2019 (2019): 4 pages, 0.956 MB. https://doi.org/10.18429/JACOW-FEL2019-WEP013.
+
+Bunch Distribution:
+-Decking, W, and F Obier. “Layout of the Beam Switchyard at the European XFEL,” n.d.
+
+Photon Transport:
+-Sinn, H., M. Dommach, B. Dickert, M. Di Felice, X. Dong, J. Eidam, D. Finze, et al. “The SASE1 X-Ray Beam Transport System.” Journal of Synchrotron Radiation 26, no. 3 (May 1, 2019): 692–99. https://doi.org/10.1107/S1600577519003461.
+
+MID:
+-Madsen, A., J. Hallmann, G. Ansaldi, T. Roth, W. Lu, C. Kim, U. Boesenberg, et al. “Materials Imaging and Dynamics (MID) Instrument at the European X-Ray Free-Electron Laser Facility.” Journal of Synchrotron Radiation 28, no. 2 (March 1, 2021): 637–49. https://doi.org/10.1107/S1600577521001302.
+
+Wavefront Characterisation:
+-Guest, Trey. “MHz Wavefront Characterisation of X-Ray Free Electron Laser Pulses.” Doctoral, La Trobe University, 2024.
+
+
+Related:
+-Hellert, Thorsten, Winfried Decking, and Julien Branlard. “Analysis of Multibunch Free Electron Laser Operation.” Physical Review Accelerators and Beams 20, no. 9 (September 26, 2017): 090702. https://doi.org/10.1103/PhysRevAccelBeams.20.090702.
+-Hellert, Thorsten, Winfried Decking, and Martin Dohlus. “Intra Bunch Train Transverse Dynamics in the Superconducting Accelerators FLASH and European XFEL,” 333–35. JACOW, Geneva, Switzerland, 2017. https://doi.org/10.18429/JACoW-LINAC2016-MOP106023.
+-Guest, Trey. W., R. Bean, R. Kammering, G. van Riessen, A. P. Mancuso, and B. Abbey. “A Phenomenological Model of the X-Ray Pulse Statistics of a High-Repetition-Rate X-Ray Free-Electron Laser.” IUCrJ 10, no. 6 (November 1, 2023). https://doi.org/10.1107/S2052252523008242.
+-Guest, Trey W., Richard Bean, Johan Bielecki, Sarlota Birnsteinova, Gianluca Geloni, Marc Guetg, Raimund Kammering, et al. “Shot-to-Shot Two-Dimensional Photon Intensity Diagnostics within Megahertz Pulse-Trains at the European XFEL.” Journal of Synchrotron Radiation 29, no. 4 (July 1, 2022): 939–46. https://doi.org/10.1107/S1600577522005720.
